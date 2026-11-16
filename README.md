@@ -3,7 +3,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LauritoFarias/tpi-analisis-de-datos/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb)
 
 **Trabajo Práctico Integrador — Introducción al Análisis de Datos (segundo parcial)**
+
 Tecnicatura Universitaria en Programación · UTN Avellaneda · 2026
+
 Docente a cargo: Enzo Martín Zotti
 
 ## Problema de negocio
@@ -12,24 +14,22 @@ En un servicio por suscripción, cada cliente que cancela (*churn*) es un ingres
 
 El proyecto recorre el ciclo completo de un trabajo de datos para responder dos preguntas:
 
-1. **¿Qué caracteriza a los clientes que se van?** Limpieza de los datos y análisis exploratorio de la antigüedad, los cargos, el tipo de contrato, los servicios y la forma de pago.
-2. **¿Qué se puede anticipar?** Modelos predictivos simples e interpretables, evaluados sobre clientes que no participaron del entrenamiento.
+1. **¿Qué caracteriza a los clientes que se van?:** Limpieza de los datos y análisis exploratorio de la antigüedad, los cargos, el tipo de contrato, los servicios y la forma de pago.
+2. **¿Qué se puede anticipar?:** Modelos predictivos simples e interpretables, evaluados sobre clientes que no participaron del entrenamiento.
 
 El objetivo final es convertir esos resultados en criterios para orientar las acciones de retención.
 
-**Dataset:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (Kaggle, datos de muestra de IBM). Contiene 7.043 clientes y 21 columnas con información sociodemográfica, servicios contratados, facturación y condición de baja.
+El dataset usado en este proyecto es [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (Kaggle, datos de muestra de IBM). Contiene 7.043 clientes y 21 columnas con información sociodemográfica, servicios contratados, facturación y condición de baja.
 
 ## Integrantes
 
 | Integrante | GitHub | Sección a cargo |
 | --- | --- | --- |
-| Iván | [LauritoFarias](https://github.com/LauritoFarias) | A. Fundamentos, ingesta y limpieza de datos |
+| Iván Laurito | [LauritoFarias](https://github.com/LauritoFarias) | A. Fundamentos, ingesta y limpieza de datos |
 | Ignacio Guillen | [ignacioG00](https://github.com/ignacioG00) | B. Análisis exploratorio, visualización e integración |
-| Kevin | [KevinPlucci](https://github.com/KevinPlucci) | C. Preprocesamiento y regresión lineal · D. Reproducibilidad y buenas prácticas |
-| _completar_ | _completar_ | _completar_ |
+| Kevin Plucci | [KevinPlucci](https://github.com/KevinPlucci) | C. Preprocesamiento y regresión lineal · D. Reproducibilidad y buenas prácticas |
 
-**División:** _completar_
-
+**División:** 343
 ## Abrir el notebook en Google Colab
 
 1. Hacer clic en el badge **Open in Colab** de arriba o en [este enlace](https://colab.research.google.com/github/LauritoFarias/tpi-analisis-de-datos/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb).
